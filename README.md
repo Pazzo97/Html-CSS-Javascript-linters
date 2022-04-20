@@ -1,5 +1,8 @@
 # HTML & CSS3 & JavaScript Course
 
+
+##Main link to files https://github.com/microverseinc/linters-config/tree/master/html-css-js
+
 If you are not familiar with linters, read [root level README](../README.md).
 
 ## Set-up GitHub Actions
